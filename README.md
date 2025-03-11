@@ -1,10 +1,10 @@
 # Unemployment Analysis with Python
 
-#📌 Overview
+## 📌 Overview
 
 Unemployment is measured by the unemployment rate, which represents the number of unemployed individuals as a percentage of the total labor force. During the COVID-19 pandemic, unemployment rates surged globally. This project analyzes unemployment trends using Python, focusing on data cleaning, exploratory data analysis (EDA), and visualization.
 
-#📂 Dataset
+## 📂 Dataset
 
 The dataset used in this analysis includes unemployment statistics across different regions and time periods.
 
@@ -25,7 +25,7 @@ Estimated Labour Participation Rate (%) – The labor force participation rate.
 Area – Rural or Urban classification.
 
 
-#🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 Python
 
@@ -38,7 +38,7 @@ Matplotlib & Seaborn (for data visualization)
 Google Colab (for execution)
 
 
-#📊 Exploratory Data Analysis (EDA)
+## 📊 Exploratory Data Analysis (EDA)
 
 Key Insights:
 
@@ -46,7 +46,7 @@ Key Insights:
 ✔️ Distribution of unemployment rates
 ✔️ Comparison of unemployment rates by region and area (Urban/Rural)
 
-#📜 Project Structure
+## 📜 Project Structure
 
 📁 Unemployment-Analysis
 │── 📄 Unemployment Rate.csv  # Dataset
@@ -54,7 +54,7 @@ Key Insights:
 │── 📄 README.md  # Project documentation
 │── 📄 requirements.txt  # Required libraries
 
-#🚀 How to Run
+## 🚀 How to Run
 
 1. Clone this repository:
 
@@ -71,7 +71,7 @@ pip install -r requirements.txt
 
 
 
-#📈 Visualizations
+## 📈 Visualizations
 
 The project includes multiple visualizations:
 
@@ -82,7 +82,7 @@ Histogram showing unemployment rate distribution.
 Boxplot comparing unemployment rates by region.
 
 
-#🏆 Results & Findings
+## 🏆 Results & Findings
 
 The unemployment rate fluctuated significantly over time.
 
@@ -91,10 +91,10 @@ Some regions were more affected than others.
 Rural and Urban areas showed different unemployment patterns.
 
 
-🤝 Contributing
+### 🤝 Contributing
 
 Contributions are welcome! Feel free to fork this repository, make improvements, and submit a pull request.
 
-📜 License
+### 📜 License
 
 This project is licensed under the MIT License.
