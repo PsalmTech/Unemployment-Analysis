@@ -58,8 +58,7 @@ Key Insights:
 
 1. Clone this repository:
 
-git clone https://github.com/your-username/Unemployment-Analysis.git
-cd Unemployment-Analysis
+git clone https://github.com/PsalmTech/Unemployment-Analysis/tree/main
 
 
 2. Install dependencies:
